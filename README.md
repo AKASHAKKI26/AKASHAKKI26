@@ -6,8 +6,6 @@
 
 # 💫 About Me
 
-🔭 Currently Building: AI-Powered Resume Screening System and Data Analytics Solutions
-
 👯 Open to Collaborate On: Data Analytics, Machine Learning, Business Intelligence, and Open Source Projects
 
 🌱 Currently Learning: Scikit-Learn, Feature Engineering, Streamlit Deployment, and Advanced Data Analytics
@@ -18,9 +16,13 @@
 
 🎓 B.Tech in Data Science @ Anurag University (Graduating in 2027)
 
+🌐 Portfolio: https://akash-data-nexus.lovable.app/
+
 ---
 
 # 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-data-nexus.lovable.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-akash-b412a3332)
 
@@ -38,7 +40,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
-![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -53,16 +55,15 @@
 
 # 📂 Featured Projects
 
+### 🤖 AI-Powered Resume Screening System
+- Intelligent resume screening platform using Machine Learning and NLP.
+- Automated candidate ranking and resume analysis.
+
 ### 📊 Bank Customer Churn Analysis
-- Customer churn analysis using Python, SQL, and Power BI.
-- Interactive dashboards and business insights.
+- Customer churn prediction and business insights using Python and Power BI.
 
 ### 💻 Amazon Laptop Market Analysis & Price Prediction
-- Web scraping, EDA, visualization, and machine learning.
-- Streamlit-based price prediction application.
-
-### 🤖 AI-Powered Resume Screening System
-- Resume screening platform using Machine Learning and NLP.
+- Data cleaning, EDA, visualization, and machine learning-based price prediction.
 
 ---
 
